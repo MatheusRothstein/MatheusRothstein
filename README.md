@@ -5,7 +5,7 @@
 <h3>Redes sociais</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MatheusRothstein/)](https://www.linkedin.com/in/MatheusRothstein/)
-[![YouTube Badge](https:)]
+[![YouTube Badge](https:https://www.youtube.com/channel/UCSO7EcDJPorYrv1YaxqAxOg)](https://www.youtube.com/channel/UCSO7EcDJPorYrv1YaxqAxOg)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=twitch&logoColor=white&link=https://www.instagram.com/therothsz/?hl=pt-br)](https://www.instagram.com/therothsz/?hl=pt-br)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-6441a5?style=flat-square&labelColor=6441a5&logo=twitch&logoColor=white&link=https://www.twitch.tv/therothsz)](https://www.twitch.tv/therothsz)
 
