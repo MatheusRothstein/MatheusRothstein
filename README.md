@@ -8,7 +8,7 @@
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https:https://www.youtube.com/channel/UCSO7EcDJPorYrv1YaxqAxOg)](https://www.youtube.com/channel/UCSO7EcDJPorYrv1YaxqAxOg)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=twitch&logoColor=white&link=https://www.instagram.com/therothsz/?hl=pt-br)](https://www.instagram.com/therothsz/?hl=pt-br)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-6441a5?style=flat-square&labelColor=6441a5&logo=twitch&logoColor=white&link=https://www.twitch.tv/therothsz)](https://www.twitch.tv/therothsz)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white=https://www.facebook.com/matheus.rothstein)](https://www.facebook.com/matheus.rothstein)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/matheus.rothstein)](https://www.facebook.com/matheus.rothstein)
 
 
 <h3>Linguagens e Ferramentas</h3>
