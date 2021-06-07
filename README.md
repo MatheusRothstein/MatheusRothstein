@@ -8,6 +8,7 @@
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https:https://www.youtube.com/channel/UCSO7EcDJPorYrv1YaxqAxOg)](https://www.youtube.com/channel/UCSO7EcDJPorYrv1YaxqAxOg)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=twitch&logoColor=white&link=https://www.instagram.com/therothsz/?hl=pt-br)](https://www.instagram.com/therothsz/?hl=pt-br)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-6441a5?style=flat-square&labelColor=6441a5&logo=twitch&logoColor=white&link=https://www.twitch.tv/therothsz)](https://www.twitch.tv/therothsz)
+[![Facebook Badge](https://img.shields.io/badge/<handle >-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white&link=https://www.facebook.com/matheus.rothstein)](https://www.facebook.com/matheus.rothstein)
 
 
 <h3>Linguagens e Ferramentas</h3>
@@ -15,12 +16,19 @@
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 </div>
 <br>
 <div style="display: flex; flex-direction: row;">
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
