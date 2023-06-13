@@ -1,6 +1,6 @@
 <h1>Opa, tudo bom?! 👋 </h1>
 
-<h2>Sou um estudante de programação e criador de conteúdo digital no tempo livre.</h2>
+<h2>Prazer, sou o Matheus, formado em Análise e Desenvolvimento de sistemas na FATEC de São José dos Campos.</h2>
 
 <h3>Redes sociais</h3>
 
